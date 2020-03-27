@@ -1,3 +1,8 @@
 black
 red
+<<<<<<< HEAD
 brown
+=======
+pink
+blue
+>>>>>>> bc6aa2354053586558e52d1375d664e3ef9ae144
